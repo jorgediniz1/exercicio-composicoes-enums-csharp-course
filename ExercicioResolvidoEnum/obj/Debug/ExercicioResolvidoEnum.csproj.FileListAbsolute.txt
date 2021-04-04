@@ -1,0 +1,7 @@
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 9 Enumerações e Composição\ExerciciosS9\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\ExercicioResolvidoEnum.exe.config
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 9 Enumerações e Composição\ExerciciosS9\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\ExercicioResolvidoEnum.exe
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 9 Enumerações e Composição\ExerciciosS9\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\ExercicioResolvidoEnum.pdb
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 9 Enumerações e Composição\ExerciciosS9\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\ExercicioResolvidoEnum.csprojAssemblyReference.cache
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 9 Enumerações e Composição\ExerciciosS9\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\ExercicioResolvidoEnum.csproj.CoreCompileInputs.cache
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 9 Enumerações e Composição\ExerciciosS9\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\ExercicioResolvidoEnum.exe
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 9 Enumerações e Composição\ExerciciosS9\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\ExercicioResolvidoEnum.pdb
